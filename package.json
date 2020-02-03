@@ -16,6 +16,7 @@
      "type": "git",
      "url": "https://github.com/danielecr/qebayapi.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "license": "MIT",
   "dependencies": {
     "q": "^1.0.1",
