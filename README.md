@@ -60,3 +60,8 @@ Separate concerns:
 Rationale:
 * testing: make ebayXml2JsonParse testable
 * improving api. i.e. callname based options
+
+
+# Credits
+
+This project was developed as opensource library for actracting and promoting collaborative developer, but was part of a wider project developer for LinguisticStudio.it (https://linguisticstudio.it/)
